@@ -6,8 +6,7 @@
 
 ![USAGE GIF OR PIC TO CAPTURE ATTENTION](./assets/audiomaker.gif)
 
-- [Live](youtube video) demonstration video.
-- [Demo](replit example) the Project.
+- [Live](https://youtu.be/T6GaHwNWMWA) demonstration video.
 
 
 <!-- ABOUT THE PROJECT -->
@@ -36,7 +35,7 @@ python -m ensurepip --upgrade
 
 1. Clone the repo
 ```sh
-git clone git@github.com:dave-cao/Pomodoro-Cli.git
+git clone git@github.com:dave-cao/AudioMaker.git
 ```
 3. Install pip packages
 ```sh
@@ -46,27 +45,23 @@ pip install -r requirements.txt
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Example images can also go here...
+1. Run the application
+```sh
+python3 main.py [YOUR PDF FILE]
+```
 
-1. Go into the `config.py` file and configure the settings to your liking. The default is a 50 minute pomodoro with 10 minute short breaks and a 30 minute long break. File paths can also be configured here.
+2. If you run the application without any arguments, it will ask you for an input string. Type your text and enter. It will create a text-to-speech of your string!
 
-![Pomo Config Image](img/image3.png)
-
-2. Run the application
 ```sh
 python3 main.py
 ```
-
-![Pomo Menu Image](img/image0.png)
-![Pomo Session Image](img/image2.png)
-![Daily Stats Image](img/image1.png)
 
 3. Exit application
 ```
 ctl + c
 ```
 
-_For a more comprehensive example of using this application, refer to this [video](example video here)_
+_For a more comprehensive example of using this application, refer to this [video](https://youtu.be/T6GaHwNWMWA)_
 
 
 
@@ -74,7 +69,7 @@ _For a more comprehensive example of using this application, refer to this [vide
 <!-- ROADMAP -->
 ## Roadmap
 
-Future plans...
+There are no future plans for this project. Perhaps instead of using Google's api for text to speech, I could try to learn the other open source text to speech servers.
 
 
 <!-- CONTRIBUTING -->
@@ -102,7 +97,7 @@ Don't forget to give the project a star! Thanks again!
 - [Youtube](https://www.youtube.com/channel/UCEnBPbnNnqhQIIhW1uLXrLA)
 - [Linkedin](https://www.linkedin.com/in/david-cao99/)
 - Personal Website: https://davidcao.xyz/
-- Project Link - https://github.com/dave-cao/Pomodoro-Cli
+- Project Link - https://github.com/dave-cao/AudioMaker
 
 
 
