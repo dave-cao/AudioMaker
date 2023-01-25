@@ -1,6 +1,6 @@
-<h1 align='center'>TITLE</h1>
+<h1 align='center'>🔊 Audio Maker</h1>
 
-<h4 align='center'>SUBTITLE</h4>
+<h4 align='center'>A script that will turn your PDF's into mp3's using text-to-speech.</h4>
 
 <br>
 
