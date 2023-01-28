@@ -12,11 +12,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A brief description about the project and your reason for creating it.
+Ever stuck with homework where you had to read boring scientific articles? Fear not! With this script, you can skip the reading and go straight to listening!
 
 ### Built With
 
-What is this project built with?
+Python3, gTTS module
 
 <!-- GETTING STARTED -->
 ## Getting Started
